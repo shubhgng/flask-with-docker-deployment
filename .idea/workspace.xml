@@ -13,6 +13,9 @@
       <change beforePath="$PROJECT_DIR$/../Datastructure/p3.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Datastructure/p4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Datastructure/p4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildspec.yml" beforeDir="false" afterPath="$PROJECT_DIR$/buildspec.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SalesAnalysis/.ipynb_checkpoints/EDAUSINGPANDAS_1-checkpoint.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SalesAnalysis/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SalesAnalysis/EDAUSINGPANDAS_1.ipynb" beforeDir="false" />
@@ -40,7 +43,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1db4N2eqRISmXYx6vwkyu4eppNh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
