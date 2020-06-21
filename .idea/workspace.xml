@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cba87d7c-c506-4bf7-a1a3-18c605a9255b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Datastructure/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructure/LinkedList" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructure/LinkedList.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructure/Rec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructure/Rec.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructure/Rec_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructure/Rec_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructure/p3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructure/p3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructure/p4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datastructure/p4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/.ipynb_checkpoints/EDAUSINGPANDAS_1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/EDAUSINGPANDAS_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Output/all_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_April_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_August_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_December_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_February_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_January_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_July_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_June_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_March_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_May_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_November_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_October_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/Sales_Data/Sales_September_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SalesAnalysis/all_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ml_program/KNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ml_program/KNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ml_program/iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../ml_program/iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ml_program/iris.data" beforeDir="false" afterPath="$PROJECT_DIR$/../ml_program/iris.data" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1db4N2eqRISmXYx6vwkyu4eppNh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cba87d7c-c506-4bf7-a1a3-18c605a9255b" name="Default Changelist" comment="" />
+      <created>1592680414249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592680414249</updated>
+    </task>
+    <servers />
+  </component>
+</project>
